@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Allison Koh"
-  avatar           : "bio-foto.png"
-  bio              : "PhD Candidate, [Berlin Graduate School for Global and Transregional Studies](https://www.scripts-berlin.eu/birt/bgts/index.html) & [Hertie School Centre for International Security](https://www.hertie-school.org/en/international-security)"
+  avatar           : "koh_picture.png"
+  bio              : "PhD Candidate, <a href="https://www.scripts-berlin.eu/birt/bgts/index.html">Berlin Graduate School for Global and Transregional Studies</a> & <a href="Hertie School Centre for International Security></a>"
   location         : "Berlin, Germany"
   employer         :
   pubmed           :
