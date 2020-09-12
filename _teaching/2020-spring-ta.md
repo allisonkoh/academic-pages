@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2014-spring-ta
 venue: "Hertie School Data Science Lab"
-date: 2014-01-07
+date: 2020-01-07
 location: "Berlin, Germany"
 ---
 
