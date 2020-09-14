@@ -2,7 +2,7 @@
 title: "Data Science Workshop Series"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2014-spring-ta
+permalink: /teaching/2020-spring
 venue: "Hertie School Data Science Lab"
 date: 2020-01-07
 location: "Berlin, Germany"
